@@ -1,7 +1,8 @@
 name: MarketplaceService
 type: class
 memory_category: Instances
-summary: |
+summary: |100
+
   The service responsible for in-experience transactions.
 description: |
   `Class.MarketplaceService` is responsible for in-experience transactions. The
